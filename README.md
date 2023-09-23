@@ -1,6 +1,6 @@
 # GeoGlactica Analysis
 
-This repo is prepare for someone who want to draw training curve, weight value hist and heat map.
+This repo is for people who want to draw training curves, weight value hist and heat maps.
 
 ## Training Curve
 
