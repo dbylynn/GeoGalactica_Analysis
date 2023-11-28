@@ -1,4 +1,4 @@
-# GeoGlactica Analysis
+# GeoGalactica Analysis
 
 This repo is for people who want to draw training curves, weight value hist and heat maps.
 
