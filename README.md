@@ -1,10 +1,10 @@
 # GeoGalactica Analysis
 
-This repo is for people who want to draw training curves, weight value hist and heat maps.
+This repo is for people who want to draw training curves, weight value histograms and heat maps.
 
 ## Training Curve
 
-From tensorborad event log draw traing cure (including loss, learning rate, grad norm curve)
+From tensorboard event log draw training curve (including loss, learning rate, grad norm curve)
 
 ```shell
 export tensorboard_path=""
@@ -36,7 +36,7 @@ python draw_hist.py --weight_type ${weight_type} --layer 0
 
 
 ## Heat Map
-1. calculate the each categlory prompt similarty.
+1. calculate each category prompt similarity.
 ```shell
 export prompt_path = ""
 python cal_prompt_simliarty.py --prompt ${prompt_path}
